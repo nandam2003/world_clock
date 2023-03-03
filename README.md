@@ -1,10 +1,10 @@
 # world_clock
 
-A new Flutter project.
+An World clock app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+We can use this app to know the time in different places in the world with the help of online [Api](https://www.timeapi.io/swagger/index.html) 
 
 A few resources to get you started if this is your first Flutter project:
 
